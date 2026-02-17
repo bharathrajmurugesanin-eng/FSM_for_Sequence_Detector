@@ -1,4 +1,6 @@
 # FSM_for_Sequence_Detector
+# EXP NO.6.A. Sequence Detector Using Moore Machine and Mealy Machine
+
 # Aim
 To design and simulate a Finite-State-Machine-for-Sequence-Detector-1011 using Verilog HDL, and verify its functionality through a testbench in the Vivado 2023.1 environment.
 
